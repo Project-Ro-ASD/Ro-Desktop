@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=Ro
+Comment=Ro Icon Theme
+Inherits=Adwaita
+Directories=scalable/actions,scalable/apps,scalable/devices,scalable/mimetypes,scalable/places,scalable/status,scalable/panel

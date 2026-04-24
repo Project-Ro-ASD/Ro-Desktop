@@ -1,0 +1,8 @@
+[SddmGreeterTheme]
+Name=Ro
+Description=Ro SDDM Theme
+Author=Ro Team
+Version=0.1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Ro

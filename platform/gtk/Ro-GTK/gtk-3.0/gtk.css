@@ -1,0 +1,13 @@
+@define-color ro_bg #0A0818;
+@define-color ro_surface #15122A;
+@define-color ro_surface_soft #1C1836;
+@define-color ro_primary #7A6FFF;
+@define-color ro_text #ECECFF;
+@define-color ro_text_secondary #A1A6D9;
+@define-color ro_border #2A2550;
+
+window, dialog, popover { background-color: @ro_bg; color: @ro_text; }
+button, entry, headerbar, toolbar, .background { background-color: @ro_surface; color: @ro_text; border-color: @ro_border; }
+button:hover { background-color: @ro_surface_soft; }
+selection, .view:selected { background-color: @ro_primary; color: #000000; }
+label:disabled { color: @ro_text_secondary; }

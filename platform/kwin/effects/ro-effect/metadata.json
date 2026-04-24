@@ -1,0 +1,8 @@
+{
+  "KPlugin": {
+    "Id": "ro-effect",
+    "Name": "Ro Effect",
+    "Description": "Basic KWin effect skeleton",
+    "Version": "0.1.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "light": {
+    "bg": "#F3F1FF",
+    "surface": "#FFFFFF",
+    "surfaceSoft": "#F7F5FF",
+    "primary": "#6C63FF",
+    "accentPink": "#FF7AB6",
+    "accentBlue": "#5FD4FF",
+    "text": "#19192E",
+    "textSecondary": "#7073A0",
+    "border": "#E6E3FF"
+  },
+  "dark": {
+    "bg": "#0A0818",
+    "surface": "#15122A",
+    "surfaceSoft": "#1C1836",
+    "primary": "#7A6FFF",
+    "accentPink": "#FF4FA3",
+    "accentBlue": "#4FD8FF",
+    "text": "#ECECFF",
+    "textSecondary": "#A1A6D9",
+    "border": "#2A2550"
+  }
+}

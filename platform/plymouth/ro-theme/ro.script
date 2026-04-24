@@ -1,0 +1,12 @@
+screen_width = Window.GetWidth();
+screen_height = Window.GetHeight();
+
+fun refresh_callback() {
+}
+
+logo.image = Image("logo.png");
+logo.sprite = Sprite(logo.image);
+logo.sprite.SetX((screen_width / 2) - 64);
+logo.sprite.SetY((screen_height / 2) - 64);
+
+Plymouth.SetRefreshFunction(refresh_callback);
